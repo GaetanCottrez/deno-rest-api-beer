@@ -3,7 +3,7 @@ A example of rest API made with Deno
 I ❤️ 🍻
 
 ## run the app
-`deno run --allow-env --allow-net app.ts`
+`deno run --allow-env --allow-net --unstable --allow-read --allow-write --allow-plugin app.ts`
 
 ## routes
 
